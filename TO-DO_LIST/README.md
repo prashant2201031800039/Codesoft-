@@ -1,5 +1,5 @@
 # Simple TO-DO LIST Application using Tkinter
-![To-Do List](CODSOFT_AUGUST/TO-DO_LIST/tkinter_todo.PNG)
+![To-Do List](tkinter_todo.PNG)
 ### Description
 This is a To-Do list application built with python's Tkinter that allows users to manage and organize task efficiently.
 Users can create, update, and track their to-do lists.
