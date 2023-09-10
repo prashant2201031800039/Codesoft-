@@ -3,15 +3,15 @@ A simple and user-friendly Todo Application developed in Python using the Tkinte
 ![To-Do List](tkinter_todo.PNG)
 
 ## Table of Contents
-[Description](#description)
-[Features](#features)
-[Installation](#installation)
-[How to run the application](#how-to-run-the-application)
-[Usage](#usage)
-[Requirements]()
-[Licenses](#licenses)
-[Acknowledgment](#acknowledgment)
-[Resources](#resources)
+* [Description](#description)
+* [Features](#features)
+* [Installation](#installation)
+* [How to run the application](#how-to-run-the-application)
+* [Usage](#usage)
+* [Requirements]()
+* [Licenses](#licenses)
+* [Acknowledgment](#acknowledgment)
+* [Resources](#resources)
 
 ### Description
 This is a To-Do list application built with python's Tkinter that allows users to manage and organize task efficiently.
