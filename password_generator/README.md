@@ -29,7 +29,7 @@ git clone https://github.com/lordlughas/CODSOFT/password_generator.git
 
 Run the application:
 `python password.py`
-
+```
 ## Requirements
   * Python 3.x
   * Tkinter library (usually included with Python)
