@@ -2,7 +2,7 @@
 
 Generate strong and secure passwords with this Python-based Password Generator Application created with Tkinter GUI.
 
-![Password Generator Screenshot](password_generator.png)
+![Password Generator Screenshot](password_generator.PNG)
 
 ## Features
 
