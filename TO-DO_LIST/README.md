@@ -1,6 +1,18 @@
 # Simple TO-DO Application
 A simple and user-friendly Todo Application developed in Python using the Tkinter library.
 ![To-Do List](tkinter_todo.PNG)
+
+## Table of Contents
+[Description](#description)
+[Features](#features)
+[Installation](#installation)
+[How to run the application](#how-to-run-the-application)
+[Usage](#usage)
+[Requirements]()
+[Licenses](#licenses)
+[Acknowledgment](#acknowledgment)
+[Resources](#resources)
+
 ### Description
 This is a To-Do list application built with python's Tkinter that allows users to manage and organize task efficiently.
 Users can create, update, and track their to-do lists.
@@ -11,8 +23,8 @@ Users can create, update, and track their to-do lists.
 - **Task List:** View all tasks with titles and due dates, color-coded for better organization.
 - **Save and Load:** Tasks are saved and loaded using the menu buttons(open, save, clear, and exit).
 
-## Installation
-### How to run the application
+### Installation
+#### How to run the application
 * To use the application, you need to clone or download the repository to your local pc code editor terminal.
 ```git clone https://github.com/lordlughas/CODSOT_AUGUST/TO-DO_LIST.git```
 * then, change directory to the todo list directory
